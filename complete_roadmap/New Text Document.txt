@@ -25,6 +25,25 @@ What to Learn:
 🔨 Practice: Solve 10–20 equations daily (Khan Academy or textbook)
 🧠 Why: Algebra is everywhere in ML—loss functions, model equations, etc.
 
+Resource material is divided into two parts in khan academy, pre-algebra and algebra 1.
+
+1. Pre-Algebra
+Purpose: To review numbers, fractions, exponents, PEMDAS, etc.
+Where to find it:
+▶️ Go to Khan Academy → Click Courses
+▶️ Find Pre-Algebra under the Math section.
+▶️ Direct link (if you’re logged in):
+https://www.khanacademy.org/math/pre-algebra
+
+2. Algebra 1
+Purpose: This is the main course for everything else (linear equations, quadratics, inequalities, functions, graphing).
+Where to find it:
+▶️ Go to Khan Academy → Click Courses
+▶️ Find Algebra 1 under the Math section.
+▶️ Direct link (if you’re logged in):
+https://www.khanacademy.org/math/algebra
+
+
 🟦 Phase 2: Linear Algebra (The Lifeblood of ML)
 Goal: Build intuition for how ML models process data.
 
